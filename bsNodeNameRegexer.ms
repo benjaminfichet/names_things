@@ -105,6 +105,6 @@ struct bsNodeNameRegexer (
 	on create do ()
 )
 
-	bsnuv = bsNodeNameRegexer()
-	bsnuv.getRegexString()
-	bsnuv.validateNameString "ch_lewis_b00a_help_l_thigh_ref_541_ac_05"
+--bsnuv = bsNodeNameRegexer()
+--bsnuv.getRegexString()
+--bsnuv.validateNameString "ch_lewis_b00a_help_l_thigh_ref_541_ac_05"
